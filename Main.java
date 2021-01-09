@@ -10,8 +10,8 @@ public static void main(String[] args) {
     System.out.println(names[i] + " Sits in Seat # " + seatNumbers[i]);   
     }
     
-   int count = 15; 
-    while(count < 15){
+   int count = 15;   
+    while(count < 15){ 
      System.out.print(count);
       count++;
    }
